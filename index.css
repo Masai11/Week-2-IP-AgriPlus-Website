@@ -35,15 +35,10 @@ a {
     margin-right: 20px;
 }
 .nav-hover:hover {
-    /* text-decoration: underline; */
     color: #ED661F;
     border-bottom:#ED661F solid;
     padding-bottom: 5px;
 }
-
-/* .links>li {
-    border: #ED661F 1px;
-} */
 
 .links,
 .nav-ul {
@@ -55,8 +50,8 @@ a {
 
 }
 .logo {
-    font-family: 'Inter', sans-serif;
-    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
     color: #FAFAFA;
 
 }
@@ -152,16 +147,8 @@ a {
     width: 100%;
 }
 
-/* .border {
-    left: 0;
-    right: 20%;
-    border-bottom:#ED661F solid 4px;
-    padding-bottom: 3px;
-} */
-
 .heading {
     font-size: 2em;
-    /* border-bottom: #ED661F solid; */
     border-bottom-width: 4px;
 }
 
