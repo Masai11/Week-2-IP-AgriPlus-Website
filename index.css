@@ -320,3 +320,8 @@ ul {
     width: 40%;
     justify-content: space-between;
 }
+
+.orange {
+    color: #ED661F;
+    padding-left: .5em;
+}
