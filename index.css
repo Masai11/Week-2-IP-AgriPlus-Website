@@ -135,3 +135,38 @@ a {
 .buttons {
     margin-top: 3em;
 }
+
+.Why-we-exist {
+    display: flex;
+
+}
+
+.exist-text {
+    width: 50%;
+    padding-right: 4em;
+}
+
+.exist-image {
+    width: 50%;
+}
+
+.exist-img {
+    width: 100%;
+}
+
+/* .border {
+    left: 0;
+    right: 20%;
+    border-bottom:#ED661F solid 4px;
+    padding-bottom: 3px;
+} */
+
+.heading {
+    font-size: 2em;
+    /* border-bottom: #ED661F solid; */
+    border-bottom-width: 4px;
+}
+
+.center {
+    text-align: center;
+}
