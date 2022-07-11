@@ -215,6 +215,7 @@ a {
     font-size: 1.6em;
     border-bottom: #ED661F solid 4px;
     margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .divider {
@@ -224,4 +225,37 @@ a {
     margin-top: 6em;
 }
 
+.keep-in-touch {
+    margin-top: 7em;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: black;
+    text-align: center;
+    color: #fff;
+    padding: 4em 0;
+}
 
+.subscribe {
+    height: 2em;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.sub-txt {
+    color: black;
+    text-align: center;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    border: none;
+}
+
+.sub-btn {
+    margin: 0%;
+    font-weight: 700;
+    padding: 0%;
+    color: #fff;
+    background-color: #ED661F;
+    padding: 0.4em;
+}
