@@ -184,3 +184,14 @@ a {
 .card-img {
     width: 100%;
 }
+
+.right-btn {
+    color: black;
+    float: right;
+    font-weight: 600;
+    font-size: 1.6em;
+    border-bottom: #ED661F solid 4px;
+}
+
+
+
