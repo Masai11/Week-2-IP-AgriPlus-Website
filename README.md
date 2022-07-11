@@ -2,7 +2,7 @@
 #### This is a website for a e-commerce Agricultural company.
 #### By ** Roy Masai **
 ## Description
-The website showcases the About section, the products offered by the company, and customer testimonials.
+The website showcases the about section, the products offered by an e-commerce agriculture company, and customer testimonials.
 
 
 
