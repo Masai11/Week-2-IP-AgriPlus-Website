@@ -314,3 +314,9 @@ ul {
     color: #999;
 }
 
+.mobile {
+    display: flex;
+    margin-top: 3em;
+    width: 40%;
+    justify-content: space-between;
+}
