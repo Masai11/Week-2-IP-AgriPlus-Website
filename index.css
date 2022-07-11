@@ -199,7 +199,6 @@ a {
     float: right;
     font-weight: 600;
     font-size: 1.6em;
-    border-bottom: #ED661F solid 4px;
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -309,4 +308,23 @@ ul {
 .orange {
     color: #ED661F;
     padding-left: .5em;
+}
+
+.border {
+    width: 2em;
+    border-bottom: #ED661F 4px solid;
+    margin-top: .4em;
+}
+
+.border-right {
+    width: 2em;
+    border-bottom: #ED661F 4px solid;
+    margin-top: .4em;
+}
+
+.center-border {
+    width: 6%;
+    border-bottom: #ED661F 4px solid;
+    padding-top: .5em;
+    margin: 0% auto;
 }
