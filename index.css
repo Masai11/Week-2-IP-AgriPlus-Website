@@ -73,7 +73,7 @@ a {
 .Buy-sell {
     display: flex;
     justify-content: space-between;
-    padding: 40px 5%;
+    padding: 60px 5%;
     background: url('Assets/grass.png');
     background-position: center bottom;
     background-size: contain;
@@ -84,11 +84,12 @@ a {
 }
 
 .Buy-sell-text {
-    width: 50%;
+    width: 40%;
+    padding: 3em 0px;
 }
 
 .buy-sell-image {
-    width: 50%;
+    width: 60%;
 }
 
 .fruits {
@@ -114,6 +115,23 @@ a {
     background-color: #ED661F;
     color: #FAFAFA;
     padding: 10px;
-    border-radius: 5px;
 }
 
+.intro-heading {
+    font-size: 3em;
+}
+
+.intro-paragrapgh {
+    font-size: 1.2em;
+}
+
+.explore {
+    padding: 1.2em 0.7em;
+    font-size: 1.2em;
+    margin-top: 2em;
+    font-weight: 900;
+}
+
+.buttons {
+    margin-top: 3em;
+}
