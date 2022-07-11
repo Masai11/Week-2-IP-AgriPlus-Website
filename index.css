@@ -259,3 +259,38 @@ a {
     background-color: #ED661F;
     padding: 0.4em;
 }
+
+footer {
+    margin-top: 0.4em;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: black;
+    color:#fff;
+    padding: 40px 35px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    min-height: 30vh;
+}
+
+ul {
+    list-style: none;
+    padding: 0%;
+}
+
+.summary {
+    width: 50%;
+}
+
+.Company, .Products, .Others {
+    width: 16%;
+}
+
+.footer-center {
+    text-align: center;
+    margin-bottom: 2em 0;
+}
+
+
