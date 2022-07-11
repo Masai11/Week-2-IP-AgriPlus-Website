@@ -17,13 +17,11 @@ a {
     background-color: black;
     font-weight: 900;
     text-align: center;
-    
-    
 }
 .nav-ul {
     display: flex;
     justify-content: space-between;
-    align-content: center;
+    align-items: center;
     
 }
 .links li,
